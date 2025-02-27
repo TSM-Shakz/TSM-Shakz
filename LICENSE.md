@@ -1,12 +1,12 @@
 This License Agreement ("Agreement") is made between you (the "Licensee" or "User") and TSM_Shakz (the "Licensor"), the creator and copyright holder of the software ("Software"). By using, installing, or otherwise accessing the Software, you agree to the terms and conditions set forth in this Agreement.
 
 ## 1. GRANT OF LICENSE
-The Licensor hereby grants the Licensee a non-exclusive, non-transferable license to use the Software subject to the terms and conditions of this Agreement. This license is for personal or internal use only.
+The Licensor hereby grants the Licensee a non-exclusive, non-transferable license to use the Software subject to the terms and conditions of this Agreement. This license is for personal or internal use only. The Licensor reserves the right to modify, update, or amend the terms of this Agreement at any time, and the Licensee agrees to comply with the updated terms upon their publication. It is the responsibility of the Licensee to regularly review the Agreement for any changes, and continued use of the Software after such changes constitutes acceptance of the modified terms.
 
 ## 2. RESTRICTIONS
 The Licensee agrees to the following restrictions:
 
-Unauthorized Distribution: You may not distribute, resell, share, or make the Software available to any third party in any form, whether modified or unmodified.
+Unauthorized Distribution: You may not distribute, resell, share, or make the Software available to any third party in any form, whether modified or unmodified without expressed permission.
 Prohibited Uses: The Software shall not be leaked, published, sublicensed, sold, or used for commercial purposes of any kind without the express written permission of the Licensor.
 Modification: The Software may not be modified, decompiled, disassembled, reverse-engineered, or used to create derivative works without prior consent from the Licensor.
 No Repackaging or Redistribution: You may not republish, repackage, or redistribute the Software in any way, either directly or indirectly, except as expressly permitted by this Agreement.
